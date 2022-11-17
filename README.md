@@ -1,4 +1,4 @@
-# :space_invader: React Native Tailwind Starter
+# :8ball: React Native Tailwind Starter
 
 > Kinda opinionated React Native Starter with TypeScript, React Navigation, React Query and Tailwind :raised_hands:
 
