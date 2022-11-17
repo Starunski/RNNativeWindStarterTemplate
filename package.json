@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/iamgraeme/RNNativeWindStarterTemplate.git/issues"
   },
-  "homepage": "https://github.com/iamgraeme/RNNativeWindStarterTemplate.git#readme"
+  "homepage": "https://github.com/iamgraeme/RNNativeWindStarterTemplate.git#readme",
+  "main": "template.config.js"
 }
