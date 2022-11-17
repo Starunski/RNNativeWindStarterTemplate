@@ -1,0 +1,8 @@
+{
+  "name": "react-native-native-wind-starter",
+  "version": "0.0.5",
+  "description": "React Native NativeWind Starter",
+  "repository": "git@github.com:iamgraeme/RNNativeWindStarterTemplate.git",
+  "author": "Graeme Houston <hello@iamgrae.me>",
+  "license": "MIT"
+}
