@@ -8,6 +8,8 @@
 - ReactQuery
 - NativeWind
 - TypeScript
+- React Hook Form
+- Heroicons
 
 ## :arrow_forward: Usage
 
