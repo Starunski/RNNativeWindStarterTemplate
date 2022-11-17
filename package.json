@@ -1,8 +1,30 @@
 {
-  "name": "RNNativeWindReactQueryNavigationTS",
-  "version": "0.0.5",
-  "description": "React Native NativeWind Starter",
-  "repository": "git@github.com:iamgraeme/RNNativeWindStarterTemplate.git",
-  "author": "Graeme Houston <hello@iamgrae.me>",
-  "license": "MIT"
+  "name": "react-native-nativewind-reactquery-typescript",
+  "version": "0.0.1",
+  "description": "Clean and minimalist React Native template for a quick start with TypeScript & NativeWind.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgraeme/RNNativeWindStarterTemplate.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate",
+    "native-wind"
+  ],
+  "author": "Graeme Houston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamgraeme/RNNativeWindStarterTemplate.git/issues"
+  },
+  "homepage": "https://github.com/iamgraeme/RNNativeWindStarterTemplate.git#readme"
 }
