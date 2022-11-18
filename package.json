@@ -27,5 +27,8 @@
     "url": "https://github.com/iamgraeme/RNNativeWindStarterTemplate.git/issues"
   },
   "homepage": "https://github.com/iamgraeme/RNNativeWindStarterTemplate.git#readme",
-  "main": "template.config.js"
+  "main": "template.config.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
