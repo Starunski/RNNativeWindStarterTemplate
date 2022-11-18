@@ -1,6 +1,6 @@
 {
   "name": "react-native-nativewind-reactquery-typescript",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Clean and minimalist React Native template for a quick start with TypeScript & NativeWind.",
   "scripts": {
     "test": "exit 0"
